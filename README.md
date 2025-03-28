@@ -39,7 +39,7 @@ Python 3.x
 Option 1: Run Locally
 
 Clone the repository:
-git clone https://github.com/yourusername/basic-calculator.git
+git clone https://github.com/luchiri/basic-calculator.git
 
 Navigate into the folder:
 
